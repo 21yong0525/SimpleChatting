@@ -28,4 +28,3 @@
 
 ### [채팅화면]
 ![image](https://user-images.githubusercontent.com/115531869/196037311-77999aef-90b1-46b3-ac5a-772d204bd10e.png)
-
